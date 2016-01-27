@@ -12,6 +12,17 @@ group :production do
   gem 'rails_12factor'
 end
 
+# Use devise gem
+gem 'devise'
+
+# Use Twitter bootstrap gem
+gem 'twitter-bootstrap-rails'
+
+# Use Devise Bootstrap 
+gem 'devise-bootstrap-views'
+
+# Use Stock Quote gem
+gem 'stock_quote'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
